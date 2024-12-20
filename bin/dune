@@ -1,0 +1,4 @@
+(executable
+ (public_name review)
+ (name main)
+ (libraries solver))
